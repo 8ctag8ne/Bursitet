@@ -1,0 +1,14 @@
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\Decorator\obj\Debug\net7.0\ref\Decorator.dll

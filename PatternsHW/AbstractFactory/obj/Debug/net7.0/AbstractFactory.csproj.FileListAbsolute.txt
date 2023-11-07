@@ -1,0 +1,14 @@
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\PatternsHW\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll
