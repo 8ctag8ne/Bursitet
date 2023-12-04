@@ -1,0 +1,4 @@
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\HW\Bursitet\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\HW\Bursitet\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\HW\Bursitet\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+C:\Users\nazar\OneDrive\Рабочий стол\унік\Прога\ООП\HW\Bursitet\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache

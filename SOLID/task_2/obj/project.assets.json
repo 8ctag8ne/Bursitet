@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\PatternsHW\\AbstractFactory\\AbstractFactory.csproj",
-      "projectName": "AbstractFactory",
-      "projectPath": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\PatternsHW\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\SOLID\\task_2\\task_2.csproj",
+      "projectName": "task_2",
+      "projectPath": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\SOLID\\task_2\\task_2.csproj",
       "packagesPath": "C:\\Users\\nazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\PatternsHW\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\nazar\\OneDrive\\Рабочий стол\\унік\\Прога\\ООП\\HW\\Bursitet\\SOLID\\task_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nazar\\AppData\\Roaming\\NuGet\\NuGet.Config"
